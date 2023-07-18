@@ -1,1 +1,1 @@
-const objects = require('./sample.json');
+const products = require('./sample.json');
